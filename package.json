@@ -1,6 +1,6 @@
 {
   "name": "appium-linux-compose-driver",
-  "version": "0.1.0",
+  "version": "0.0.1-alpha2",
   "description": "Appium driver for Linux desktop apps (Compose Desktop / AT-SPI2)",
   "main": "lib/driver.js",
   "files": ["lib/"],
